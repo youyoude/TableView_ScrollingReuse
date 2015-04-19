@@ -230,7 +230,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
-				ORGANIZATIONNAME = "马云起";
+				ORGANIZATIONNAME = youyou;
 				TargetAttributes = {
 					94F242391AE37B030055C229 = {
 						TestTargetID = 94F242181AE37B020055C229;
@@ -497,6 +497,7 @@
 				94F2424D1AE37B030055C229 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		94F2424E1AE37B030055C229 /* Build configuration list for PBXNativeTarget "Tablview重用DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +506,7 @@
 				94F242501AE37B030055C229 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

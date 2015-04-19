@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Tablview重用Demo
 //
-//  Created by 马云起 on 15/4/19.
-//  Copyright (c) 2015年 马云起. All rights reserved.
+//  Created by you on 15/4/19.
+//  Copyright (c) 2015年 youy. All rights reserved.
 //
 
 #import "AppDelegate.h"

@@ -2,8 +2,8 @@
 //  DemoVC.m
 //  CycleScrollTableDemo
 //
-//  Created by maguanghai on 14-9-19.
-//  Copyright (c) 2014年 maguanghai. All rights reserved.
+//  Created by youyou on 14-9-19.
+//  Copyright (c) 2014年 youyou. All rights reserved.
 //
 
 #import "DemoVC.h"

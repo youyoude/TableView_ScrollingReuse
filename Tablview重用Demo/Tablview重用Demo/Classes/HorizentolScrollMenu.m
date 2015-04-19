@@ -2,8 +2,8 @@
 //  HorizentolScrollMenu.m
 //  2313
 //
-//  Created by maguanghai on 14-9-9.
-//  Copyright (c) 2014年 maguanghai. All rights reserved.
+//  Created by youyou on 14-9-9.
+//  Copyright (c) 2014年 youyou. All rights reserved.
 //  水平滑动菜单栏
 
 #import "HorizentolScrollMenu.h"
